@@ -1,0 +1,10 @@
+
+
+for x in *.fna; do python ../Repositories/analysis-scripts/simAssembly.py $x 300 11000; done
+cat *.fasta > ASF_sim_metaG.contigs.fasta
+perl /mnt/c/Users/Matt\ Jenior/Desktop/ASF_genome/ESOM/esomWrapper.pl -path . -ext fasta -dir ASFesom -prefix ASFesomOutput -min 500 -max 10000 -scripts /mnt/c/Users/Matt\ Jenior/Desktop/ASF_genomes/ESOM/
+
+
+
+
+perl tetramer_freqs_esom.pl -f ASFesomOutput.fasta -a ASFesomOutput.ann -min 1000 -max 5000

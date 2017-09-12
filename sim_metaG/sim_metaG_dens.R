@@ -5,7 +5,7 @@ test <- c(410, 411, 424, 433, 436, 446, 450, 455, 456, 460, 462, 464, 466, 468, 
 d <- density(test)
 
 
-par(mar=c(4,4,1,2), las=1, mgp=c(2.8,1,0), xaxs='i', yaxs='i', xpd=FALSE)
+par(mar=c(4,4.5,1,2), las=1, mgp=c(2.8,1,0), xaxs='i', yaxs='i', xpd=FALSE)
 plot(d, main='', xlab='Contig length (bp)', ylab='Frequency', ylim=c(0,0.0005), yaxt='n')
 axis(side=2, at=c(0,0.0001,0.0002,0.0003,0.0004,0.0005), 
      labels=c(0,100,200,300,400,500))
@@ -15,4 +15,5 @@ abline(v=978, lty=2, lwd=2.5, col='dodgerblue3') # n90
 text(x=c(1900,4800), y=0.00048, labels=c('978 bp','3718 bp'))
 legend('topright', legend=c('N50','N90'), col=c('firebrick2','dodgerblue3'), 
        lty=2, lwd=2.5, bg='white', cex=1.3)
+mtext('A', side=2, adj=4, padj=-8.5, cex=1.8)
 
