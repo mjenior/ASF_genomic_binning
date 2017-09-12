@@ -1,0 +1,207 @@
+# Binned contig file: cluster_1.fasta
+# Unique sources: 2
+# Most frequent source: ASF457
+# Total from most frequent: 624
+# Contaminants: 0.160 %
+
+# Total contigs: 625
+# Total bases: 2.04 Mb
+# N50: 4100
+# N90: 1727
+# Median length: 2616
+# Q1: 1748
+# Q3: 4228
+# Contigs > 1 kb: 622
+# Contigs > 5 kb: 111
+# Contigs > 10 kb: 9
+# Shorest contig: 1000
+# Longest contig: 10852
+
+#-----------------------------------------#
+
+# Binned contig file: cluster_2.fasta
+# Unique sources: 8
+# Most frequent source: ASF360
+# Total from most frequent: 534
+# Contaminants: 19.457 %
+
+# Total contigs: 663
+# Total bases: 2.02 Mb
+# N50: 3809
+# N90: 1614
+# Median length: 2488
+# Q1: 1650
+# Q3: 3964
+# Contigs > 1 kb: 662
+# Contigs > 5 kb: 102
+# Contigs > 10 kb: 3
+# Shorest contig: 1000
+# Longest contig: 10665
+
+#-----------------------------------------#
+
+# Binned contig file: cluster_3.fasta
+# Unique sources: 3
+# Most frequent source: ASF361
+# Total from most frequent: 562
+# Contaminants: 0.531 %
+
+# Total contigs: 565
+# Total bases: 1.85 Mb
+# N50: 4137
+# N90: 1713
+# Median length: 2762
+# Q1: 1713
+# Q3: 4310
+# Contigs > 1 kb: 565
+# Contigs > 5 kb: 107
+# Contigs > 10 kb: 9
+# Shorest contig: 1001
+# Longest contig: 10757
+
+#-----------------------------------------#
+
+# Binned contig file: cluster_4.fasta
+# Unique sources: 3
+# Most frequent source: ASF356
+# Total from most frequent: 744
+# Contaminants: 1.457 %
+
+# Total contigs: 755
+# Total bases: 2.51 Mb
+# N50: 4107
+# N90: 1733
+# Median length: 2829
+# Q1: 1722
+# Q3: 4284
+# Contigs > 1 kb: 755
+# Contigs > 5 kb: 142
+# Contigs > 10 kb: 13
+# Shorest contig: 1001
+# Longest contig: 10912
+
+#-----------------------------------------#
+
+# Binned contig file: cluster_5.fasta
+# Unique sources: 4
+# Most frequent source: ASF500
+# Total from most frequent: 938
+# Contaminants: 9.020 %
+
+# Total contigs: 1031
+# Total bases: 3.35 Mb
+# N50: 3995
+# N90: 1753
+# Median length: 2780
+# Q1: 1788
+# Q3: 4186
+# Contigs > 1 kb: 1029
+# Contigs > 5 kb: 181
+# Contigs > 10 kb: 5
+# Shorest contig: 1000
+# Longest contig: 10945
+
+#-----------------------------------------#
+
+# Binned contig file: cluster_6.fasta
+# Unique sources: 2
+# Most frequent source: ASF492
+# Total from most frequent: 875
+# Contaminants: 0.681 %
+
+# Total contigs: 881
+# Total bases: 3.06 Mb
+# N50: 4217
+# N90: 1826
+# Median length: 2844
+# Q1: 1843
+# Q3: 4536
+# Contigs > 1 kb: 880
+# Contigs > 5 kb: 171
+# Contigs > 10 kb: 14
+# Shorest contig: 1000
+# Longest contig: 10910
+
+#-----------------------------------------#
+
+# Binned contig file: cluster_7.fasta
+# Unique sources: 4
+# Most frequent source: ASF519
+# Total from most frequent: 1712
+# Contaminants: 2.171 %
+
+# Total contigs: 1750
+# Total bases: 5.86 Mb
+# N50: 4147
+# N90: 1745
+# Median length: 2777
+# Q1: 1741
+# Q3: 4363
+# Contigs > 1 kb: 1750
+# Contigs > 5 kb: 349
+# Contigs > 10 kb: 20
+# Shorest contig: 1001
+# Longest contig: 10944
+
+#-----------------------------------------#
+
+# Binned contig file: cluster_8.1.fasta
+# Unique sources: 2
+# Most frequent source: ASF502
+# Total from most frequent: 1041
+# Contaminants: 2.070 %
+
+# Total contigs: 1063
+# Total bases: 3.70 Mb
+# N50: 4161
+# N90: 1906
+# Median length: 2936
+# Q1: 1942
+# Q3: 4477
+# Contigs > 1 kb: 1063
+# Contigs > 5 kb: 217
+# Contigs > 10 kb: 10
+# Shorest contig: 1001
+# Longest contig: 10984
+
+#-----------------------------------------#
+
+# Binned contig file: cluster_8.2.fasta
+# Unique sources: 8
+# Most frequent source: ASF492
+# Total from most frequent: 664
+# Contaminants: 51.884 %
+
+# Total contigs: 1380
+# Total bases: 4.52 Mb
+# N50: 4016
+# N90: 1763
+# Median length: 2831
+# Q1: 1787
+# Q3: 4207
+# Contigs > 1 kb: 1378
+# Contigs > 5 kb: 246
+# Contigs > 10 kb: 18
+# Shorest contig: 1000
+# Longest contig: 10967
+
+#-----------------------------------------#
+
+# Binned contig file: cluster_8.fasta
+# Unique sources: 8
+# Most frequent source: ASF502
+# Total from most frequent: 1614
+# Contaminants: 34.946 %
+
+# Total contigs: 2481
+# Total bases: 8.33 Mb
+# N50: 4086
+# N90: 1823
+# Median length: 2870
+# Q1: 1853
+# Q3: 4317
+# Contigs > 1 kb: 2479
+# Contigs > 5 kb: 468
+# Contigs > 10 kb: 28
+# Shorest contig: 1000
+# Longest contig: 10984
