@@ -187,7 +187,7 @@
 
 #-----------------------------------------#
 
-# Binned contig file: cluster_small2.fasta
+# Binned contig file: cluster_small.fasta
 # Unique sources: 8
 # Most frequent source: ASF492
 # Total from most frequent: 60
