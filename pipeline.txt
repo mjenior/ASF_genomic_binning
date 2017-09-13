@@ -4,4 +4,7 @@ for x in *.fna; do python ../Repositories/analysis-scripts/simAssembly.py $x 300
 cat *.fasta > ASF_sim_metaG.contigs.fasta
 
 
+export DISPLAY=:0.0
+java -jar VizBin-dist.jar
+
 for x in *.fasta; do python ../../analysis-scripts/checkBins.py $x; done > binning_summary.txt
