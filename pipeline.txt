@@ -7,4 +7,15 @@ cat *.fasta > ASF_sim_metaG.contigs.fasta
 export DISPLAY=:0.0
 java -jar VizBin-dist.jar
 
+
 for x in *.fasta; do python ../../analysis-scripts/checkBins.py $x; done > binning_summary.txt
+
+
+prodigal -i cluster_central.fasta -a cluster_central.genes.faa
+python ../../../analysis-scripts/rmSeqs.py cluster_central.genes.faa 80
+prodigal -i cluster_small.fasta -a cluster_small.genes.faa
+python ../../../analysis-scripts/rmSeqs.py cluster_small.genes.faa 80
+
+
+python ../../../analysis-scripts/readBLAST.py cluster_central.protVprot.out
+python ../../../analysis-scripts/readBLAST.py cluster_small.protVprot.out
