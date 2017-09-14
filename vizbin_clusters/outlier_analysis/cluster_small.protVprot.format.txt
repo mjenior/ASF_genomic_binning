@@ -1,86 +1,86 @@
-query	kegg_org_hit	gene_hit	percent_id	e_vlaue
-ASF356	ral	hypothetical_protein	35.2	4.9e-09	
-ASF356	bsl	hypothetical_protein	86.6	5.6e-49	
-ASF356	cby	hypothetical_protein	56.1	5.8e-13	
-ASF356	csh	colicin_V_production_protein	29.3	1.2e-24	
-ASF356	lcr	hypothetical_protein	52.8	1.0e-06	
-ASF356	bsl	hypothetical_protein	86.6	5.6e-49	
-ASF356	cby	hypothetical_protein	56.1	5.8e-13	
-ASF356	hmo	hypothetical_protein	78.5	1.5e-20	
-ASF356	dai	site-specific_recombinase_XerD	50.8	1.7e-27	
-ASF356	bsl	hypothetical_protein	86.6	5.6e-49	
-ASF356	bsl	hypothetical_protein	86.6	5.6e-49	
-ASF356	cby	hypothetical_protein	56.1	5.8e-13	
-ASF356	abab	hypothetical_protein	75.4	6.8e-20	
-ASF356	hmo	hypothetical_protein	78.5	1.5e-20	
-ASF356	cst	hypothetical_protein	43.9	1.8e-24	
-ASF360	lru	transcriptional_regulator	34.1	8.4e-04	
-ASF360	lhe	hypothetical_protein	55.2	7.9e-12	
-ASF360	ppe	hypothetical_protein	45.7	5.9e-07	
-ASF360	lai	integrase/recombinase	46.0	5.2e-15	
-ASF360	lam	site-specific_recombinase|phage_integrase_family_protein	67.0	2.8e-65	
-ASF360	lam	putative_single-stranded_DNA-binding_protein	67.3	6.6e-35	
-ASF360	lai	replication_initiation_factor_family_protein	58.5	1.3e-101	
-ASF360	lhv	hypothetical_protein	81.1	3.4e-48	
-ASF360	lac	glycosyltransferase	84.9	2.6e-151	
-ASF361	lrm	metK|S-adenosylmethionine_synthetase	92.2	5.0e-31	
-ASF361	sdq	hypothetical_protein	85.1	8.8e-26	
-ASF361	cml	cell_wall-associated_hydrolase_family_protein	94.3	4.3e-50	
-ASF361	lrr	hypothetical_protein	53.7	6.8e-126	
-ASF361	lrr	hypothetical_protein	53.1	8.4e-124	
-ASF361	lrr	hypothetical_protein	53.0	3.2e-123	
-ASF361	lrr	hypothetical_protein	51.7	2.0e-117	
-ASF361	lrr	hypothetical_protein	52.2	1.3e-116	
-ASF361	lrr	hypothetical_protein	51.0	2.5e-88	
-ASF361	lrr	hypothetical_protein	49.6	1.6e-87	
-ASF361	lrr	hypothetical_protein	51.0	2.6e-64	
-ASF361	lrr	hypothetical_protein	49.7	1.8e-38	
-ASF361	lrr	hypothetical_protein	29.1	1.3e-31	
-ASF361	lrr	hypothetical_protein	37.8	2.4e-30	
-ASF361	lrr	hypothetical_protein	29.5	3.2e-30	
-ASF361	lrr	hypothetical_protein	40.7	4.3e-27	
-ASF361	lrr	hypothetical_protein	49.5	1.6e-13	
-ASF361	lrr	hypothetical_protein	36.2	2.0e-08	
-ASF361	hmo	hypothetical_protein	66.4	3.8e-30	
-ASF361	hmo	hypothetical_protein	81.3	1.5e-26	
-ASF361	sdq	hypothetical_protein	85.1	8.6e-26	
-ASF361	cml	cell_wall-associated_hydrolase_family_protein	94.3	4.3e-50	
-ASF361	smut	bacteriophage_replication_gene_A_protein_(GPA)	71.2	4.0e-11	
-ASF361	lcr	hypothetical_protein	66.5	1.0e-121	
-ASF361	lrm	feoA|Fe2+_transport_system_protein_A	56.7	8.6e-35	
-ASF361	lrm	feoB|Fe2+_transport_system_protein_B	61.5	6.8e-98	
-ASF361	cml	cell_wall-associated_hydrolase_family_protein	94.3	4.3e-50	
-ASF361	sdq	hypothetical_protein	85.1	8.6e-26	
-ASF361	hmo	hypothetical_protein	81.3	1.5e-26	
-ASF361	hmo	hypothetical_protein	67.8	1.3e-15	
-ASF361	hmo	hypothetical_protein	75.9	4.2e-15	
-ASF361	cni	isoleucyl-tRNA_synthetase_(EC:6.1.1.5)	67.5	4.3e-59	
-ASF457	hmo	hypothetical_protein	75.9	4.2e-15	
-ASF457	hmo	hypothetical_protein	67.8	1.3e-15	
-ASF457	saf	hypothetical_protein	62.7	6.6e-35	
-ASF457	blu	Cell_wall-associated_hydrolase	76.0	2.7e-32	
-ASF457	dap	binding-protein-dependent_transport_system_inner_membrane_protein	67.2	1.3e-118	
-ASF457	hmo	hypothetical_protein	75.9	4.2e-15	
-ASF457	blu	Cell_wall-associated_hydrolase	76.0	2.7e-32	
-ASF492	cch	ATPase-like_protein	52.7	8.4e-09	
-ASF492	cth	transposase_IS200-like_protein	69.2	2.9e-08	
-ASF500	hmo	hypothetical_protein	72.9	2.5e-30	
-ASF500	mtr	ATP_synthase_subunit_alpha	78.9	7.7e-10	
-ASF500	cml	cell_wall-associated_hydrolase_family_protein	81.9	3.3e-42	
-ASF500	kpr	hypothetical_protein	48.1	3.3e-09	
-ASF500	hhl	hypothetical_protein	35.7	7.1e-47	
-ASF500	cml	cell_wall-associated_hydrolase_family_protein	81.9	3.3e-42	
-ASF500	kpr	hypothetical_protein	48.1	3.3e-09	
-ASF500	kpr	hypothetical_protein	48.1	3.3e-09	
-ASF500	cml	cell_wall-associated_hydrolase_family_protein	81.9	3.3e-42	
-ASF500	siv	double-glycine_peptidase	38.2	2.0e-09	
-ASF502	mtr	Cell_wall-associated_hydrolase	78.8	1.2e-06	
-ASF502	hmo	hypothetical_protein	82.0	8.8e-21	
-ASF519	mtr	ATP_synthase_subunit_alpha	69.0	5.2e-07	
-ASF519	mtr	ATP_synthase_subunit_alpha	69.0	5.2e-07	
-ASF519	mtr	ATP_synthase_subunit_alpha	69.0	5.2e-07	
-ASF519	bsa	transposase_mutator_type	85.6	5.0e-166	
-ASF519	tfo	TonB-linked_outer_membrane_protein|SusC/RagA_family	76.0	2.4e-167	
-ASF519	mtr	ATP_synthase_subunit_alpha	69.0	5.2e-07	
-ASF519	blu	Cell_wall-associated_hydrolase	82.5	3.7e-57	
-ASF519	bacc	hypothetical_protein	39.9	6.2e-65	
+gene	query	kegg_org_hit	gene_hit	percent_id	e_vlaue
+1	ASF356	ral	hypothetical_protein	35.2	4.9e-09
+2	ASF356	bsl	hypothetical_protein	86.6	5.6e-49
+3	ASF356	cby	hypothetical_protein	56.1	5.8e-13
+4	ASF356	csh	colicin_V_production_protein	29.3	1.2e-24
+5	ASF356	lcr	hypothetical_protein	52.8	1.0e-06
+6	ASF356	bsl	hypothetical_protein	86.6	5.6e-49
+7	ASF356	cby	hypothetical_protein	56.1	5.8e-13
+8	ASF356	hmo	hypothetical_protein	78.5	1.5e-20
+9	ASF356	dai	site-specific_recombinase_XerD	50.8	1.7e-27
+10	ASF356	bsl	hypothetical_protein	86.6	5.6e-49
+11	ASF356	bsl	hypothetical_protein	86.6	5.6e-49
+12	ASF356	cby	hypothetical_protein	56.1	5.8e-13
+13	ASF356	abab	hypothetical_protein	75.4	6.8e-20
+14	ASF356	hmo	hypothetical_protein	78.5	1.5e-20
+15	ASF356	cst	hypothetical_protein	43.9	1.8e-24
+16	ASF360	lru	transcriptional_regulator	34.1	8.4e-04
+17	ASF360	lhe	hypothetical_protein	55.2	7.9e-12
+18	ASF360	ppe	hypothetical_protein	45.7	5.9e-07
+19	ASF360	lai	integrase/recombinase	46.0	5.2e-15
+20	ASF360	lam	site-specific_recombinase|phage_integrase_family_protein	67.0	2.8e-65
+21	ASF360	lam	putative_single-stranded_DNA-binding_protein	67.3	6.6e-35
+22	ASF360	lai	replication_initiation_factor_family_protein	58.5	1.3e-101
+23	ASF360	lhv	hypothetical_protein	81.1	3.4e-48
+24	ASF360	lac	glycosyltransferase	84.9	2.6e-151
+25	ASF361	lrm	metK|S-adenosylmethionine_synthetase	92.2	5.0e-31
+26	ASF361	sdq	hypothetical_protein	85.1	8.8e-26
+27	ASF361	cml	cell_wall-associated_hydrolase_family_protein	94.3	4.3e-50
+28	ASF361	lrr	hypothetical_protein	53.7	6.8e-126
+29	ASF361	lrr	hypothetical_protein	53.1	8.4e-124
+30	ASF361	lrr	hypothetical_protein	53.0	3.2e-123
+31	ASF361	lrr	hypothetical_protein	51.7	2.0e-117
+32	ASF361	lrr	hypothetical_protein	52.2	1.3e-116
+33	ASF361	lrr	hypothetical_protein	51.0	2.5e-88
+34	ASF361	lrr	hypothetical_protein	49.6	1.6e-87
+35	ASF361	lrr	hypothetical_protein	51.0	2.6e-64
+36	ASF361	lrr	hypothetical_protein	49.7	1.8e-38
+37	ASF361	lrr	hypothetical_protein	29.1	1.3e-31
+38	ASF361	lrr	hypothetical_protein	37.8	2.4e-30
+39	ASF361	lrr	hypothetical_protein	29.5	3.2e-30
+40	ASF361	lrr	hypothetical_protein	40.7	4.3e-27
+41	ASF361	lrr	hypothetical_protein	49.5	1.6e-13
+42	ASF361	lrr	hypothetical_protein	36.2	2.0e-08
+43	ASF361	hmo	hypothetical_protein	66.4	3.8e-30
+44	ASF361	hmo	hypothetical_protein	81.3	1.5e-26
+45	ASF361	sdq	hypothetical_protein	85.1	8.6e-26
+46	ASF361	cml	cell_wall-associated_hydrolase_family_protein	94.3	4.3e-50
+47	ASF361	smut	bacteriophage_replication_gene_A_protein_(GPA)	71.2	4.0e-11
+48	ASF361	lcr	hypothetical_protein	66.5	1.0e-121
+49	ASF361	lrm	feoA|Fe2+_transport_system_protein_A	56.7	8.6e-35
+50	ASF361	lrm	feoB|Fe2+_transport_system_protein_B	61.5	6.8e-98
+51	ASF361	cml	cell_wall-associated_hydrolase_family_protein	94.3	4.3e-50
+52	ASF361	sdq	hypothetical_protein	85.1	8.6e-26
+53	ASF361	hmo	hypothetical_protein	81.3	1.5e-26
+54	ASF361	hmo	hypothetical_protein	67.8	1.3e-15
+55	ASF361	hmo	hypothetical_protein	75.9	4.2e-15
+56	ASF361	cni	isoleucyl-tRNA_synthetase_(EC:6.1.1.5)	67.5	4.3e-59
+57	ASF457	hmo	hypothetical_protein	75.9	4.2e-15
+58	ASF457	hmo	hypothetical_protein	67.8	1.3e-15
+59	ASF457	saf	hypothetical_protein	62.7	6.6e-35
+60	ASF457	blu	Cell_wall-associated_hydrolase	76.0	2.7e-32
+61	ASF457	dap	binding-protein-dependent_transport_system_inner_membrane_protein	67.2	1.3e-118
+62	ASF457	hmo	hypothetical_protein	75.9	4.2e-15
+63	ASF457	blu	Cell_wall-associated_hydrolase	76.0	2.7e-32
+64	ASF492	cch	ATPase-like_protein	52.7	8.4e-09
+65	ASF492	cth	transposase_IS200-like_protein	69.2	2.9e-08
+66	ASF500	hmo	hypothetical_protein	72.9	2.5e-30
+67	ASF500	mtr	ATP_synthase_subunit_alpha	78.9	7.7e-10
+68	ASF500	cml	cell_wall-associated_hydrolase_family_protein	81.9	3.3e-42
+69	ASF500	kpr	hypothetical_protein	48.1	3.3e-09
+70	ASF500	hhl	hypothetical_protein	35.7	7.1e-47
+71	ASF500	cml	cell_wall-associated_hydrolase_family_protein	81.9	3.3e-42
+72	ASF500	kpr	hypothetical_protein	48.1	3.3e-09
+73	ASF500	kpr	hypothetical_protein	48.1	3.3e-09
+74	ASF500	cml	cell_wall-associated_hydrolase_family_protein	81.9	3.3e-42
+75	ASF500	siv	double-glycine_peptidase	38.2	2.0e-09
+76	ASF502	mtr	Cell_wall-associated_hydrolase	78.8	1.2e-06
+77	ASF502	hmo	hypothetical_protein	82.0	8.8e-21
+78	ASF519	mtr	ATP_synthase_subunit_alpha	69.0	5.2e-07
+79	ASF519	mtr	ATP_synthase_subunit_alpha	69.0	5.2e-07
+80	ASF519	mtr	ATP_synthase_subunit_alpha	69.0	5.2e-07
+81	ASF519	bsa	transposase_mutator_type	85.6	5.0e-166
+82	ASF519	tfo	TonB-linked_outer_membrane_protein|SusC/RagA_family	76.0	2.4e-167
+83	ASF519	mtr	ATP_synthase_subunit_alpha	69.0	5.2e-07
+84	ASF519	blu	Cell_wall-associated_hydrolase	82.5	3.7e-57
+85	ASF519	bacc	hypothetical_protein	39.9	6.2e-65
